@@ -2,6 +2,14 @@
 # yarn lockfile v1
 
 
+deep-extend@^0.5.0:
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/deep-extend/-/deep-extend-0.5.0.tgz#6ef4a09b05f98b0e358d6d93d4ca3caec6672803"
+
+deep-find@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/deep-find/-/deep-find-1.0.0.tgz#c9684c736a4a1c1895499fd550e9d72d649426a4"
+
 deep-keys@^0.4.0:
   version "0.4.0"
   resolved "https://registry.yarnpkg.com/deep-keys/-/deep-keys-0.4.0.tgz#0229870bdf1457b054cbf55484e92f8af59cbeab"
@@ -34,3 +42,7 @@ node-fetch@^1.7.3:
   dependencies:
     encoding "^0.1.11"
     is-stream "^1.0.1"
+
+type-detect@^4.0.3:
+  version "4.0.3"
+  resolved "https://registry.yarnpkg.com/type-detect/-/type-detect-4.0.3.tgz#0e3f2670b44099b0b46c284d136a7ef49c74c2ea"
