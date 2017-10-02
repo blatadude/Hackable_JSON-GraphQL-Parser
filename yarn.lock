@@ -24,6 +24,10 @@ encoding@^0.1.11:
   dependencies:
     iconv-lite "~0.4.13"
 
+get-deep@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/get-deep/-/get-deep-1.0.1.tgz#e090d0dacc5d9ba6e0d8efc204d7824e568261a4"
+
 iconv-lite@~0.4.13:
   version "0.4.19"
   resolved "https://registry.yarnpkg.com/iconv-lite/-/iconv-lite-0.4.19.tgz#f7468f60135f5e5dad3399c0a81be9a1603a082b"
